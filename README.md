@@ -1,3 +1,7 @@
 API documentada em https://jsonplaceholder.typicode.com
 
-AplicaÃ§Ã£o Utilizando React.js
+Aplicação Utilizando React.js
+
+npm install na pasta tradeforce_test (onde se encontra o arquivo package.json)
+
+npm start para rodar aplicação.
